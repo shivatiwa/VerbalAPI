@@ -1,0 +1,74 @@
+[
+    {
+      "Question":"Two men start together to walk to a certain destination, one at 3 kmph and another at 3.75 kmph. The latter arrives half an hour before the former. What is the distance?",
+      "A":"6km",
+      "B":"7.5km",
+      "C":"8km",
+      "D":"9.5km",
+      "image":"",
+      "text":""
+    },
+    {
+        "Question":"What is the average of the positive numbers from 1 to 100?",
+        "A":"49.5",
+        "B":"50",
+        "C":"50.5",
+        "D":"51",
+        "image":"",
+        "text":"50.5"
+      },
+      {
+        "Question":"If RAJIYA is coded as YARAJI, How is SHIVANI CODED?",
+        "A":"NISIHVA",
+        "B":"NISHVIA",
+        "C":"NISHIVA",
+        "D":"NIHSIVA",
+        "image":"",
+        "text":""
+      },
+      {
+        "Question":"The value of A is 1 if A% of 100 is1, then what is the value of p if p% of 50 is 85?",
+        "A":"160",
+        "B":"170",
+        "C":"180",
+        "D":"185",
+        "image":"",
+        "text":"170"
+      },
+    {
+      "Question":"Two men start together to walk to a certain destination, one at 3 kmph and another at 3.75 kmph. The latter arrives half an hour before the former. What is the distance?",
+      "A":"6km",
+      "B":"7.5km",
+      "C":"8km",
+      "D":"9.5km",
+      "image":"",
+      "text":""
+    },
+    {
+        "Question":"What is the average of the positive numbers from 1 to 100?",
+        "A":"49.5",
+        "B":"50",
+        "C":"50.5",
+        "D":"51",
+        "image":"",
+        "text":"50.5"
+      },
+      {
+        "Question":"If RAJIYA is coded as YARAJI, How is SHIVANI CODED?",
+        "A":"NISIHVA",
+        "B":"NISHVIA",
+        "C":"NISHIVA",
+        "D":"NIHSIVA",
+        "image":"",
+        "text":""
+      },
+      {
+        "Question":"The value of A is 1 if A% of 100 is1, then what is the value of p if p% of 50 is 85?",
+        "A":"160",
+        "B":"170",
+        "C":"180",
+        "D":"185",
+        "image":"",
+        "text":"170"
+      }
+    ] 
