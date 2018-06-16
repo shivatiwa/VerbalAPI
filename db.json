@@ -2,22 +2,22 @@
  "results":
     [
     {
-      "Question":"Two men start together to walk to a certain destination, one at 3 kmph and another at 3.75 kmph. The latter arrives half an hour before the former. What is the distance?",
-      "A":"6km",
-      "B":"7.5km",
-      "C":"8km",
-      "D":"9.5km",
+      "Question":"The stenographer is very efficient. He is ______ to his firm.",
+      "A":"an asset",
+      "B":"a credit",
+      "C":"a blessing",
+      "D":"a boon",
       "image":"",
-      "text":""
+      "text":"an asset"
     },
     {
-        "Question":"What is the average of the positive numbers from 1 to 100?",
-        "A":"49.5",
-        "B":"50",
-        "C":"50.5",
-        "D":"51",
+        "Question":"This brand of TV is quite inferior_____ that one.",
+        "A":"than",
+        "B":"to",
+        "C":"with",
+        "D":"over",
         "image":"",
-        "text":"50.5"
+        "text":"to"
       },
       {
         "Question":"If RAJIYA is coded as YARAJI, How is SHIVANI CODED?",
@@ -26,7 +26,7 @@
         "C":"NISHIVA",
         "D":"NIHSIVA",
         "image":"",
-        "text":""
+        "text":"NISHIVA"
       },
       {
         "Question":"The value of A is 1 if A% of 100 is1, then what is the value of p if p% of 50 is 85?",
